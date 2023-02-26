@@ -1,12 +1,24 @@
 # Twitter Data Coletor
 
-## Goals:
+## Goals
 
-- Collect tweets from the program Fantático, Show da Vida, presented by Drausio Varella. Available in [showdavida](https://twitter.com/showdavida/status/1234563236848119810?t=wurW-25yjDl_I5Ee1ajIkQ&s=09)
+Collection of tweets in the excerpt of the report Trans women prisoners face prejudice, abandonment and violence on the program Fantástico on Rede Globo.
 
-- Analyze the different feelings and meanings around the hashtag that occurred in the episode.
+The video, shared on the official profile of the Fantástico program, on Twitter, presents the exact moment when the doctor Drauzio Varella hugs Suzy de Oliveira dos Santos and says the phrase: Loneliness, right, my daughter?
 
-- Strategy: collect all comments related to the publication of the article in its entirety on the social network Twitter. Total tweets analyzed: x in the period from x to x.
+The purpose of the research is to analyze the senses triggered from the repercussion of the excerpt of the report that presents the hug and phrase said by Drauzio to Suzy.
+
+The report had wide repercussions and developments during its repercussion, manifestation of meanings around the episode. 
+
+Collect tweets from the program Fantático, Show da Vida, presented by Drausio Varella. Available in [showdavida](https://twitter.com/showdavida/status/1234563236848119810?t=wurW-25yjDl_I5Ee1ajIkQ&s=09).
+
+## Strategy
+
+On March 2, 2020, the official profile of the Fantástico program on Twitter published an excerpt from the report in which the doctor says the phrase “Loneliness, right my daughter?” and hugs Suzy. 
+
+The publication had 964.7 thousand views, 29.5 thousand likes, 3,888 retweets and 2,300 tweets with comments. Of the 2,300 available tweets, 2,035 tweets were collected via the Twitter API in December 2021. 
+
+The difference between the total number of data and the amount collected is due to the following errors reported by the platform: user not found (when the user deletes or inactivates the account) or suspended account (user banned by the platform).
 
 ## Observations
 
